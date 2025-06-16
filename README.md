@@ -13,4 +13,5 @@ You can now fetch the definition of any word in the API using the input box and 
 ### Repo website: 
 https://melker-365.github.io/Dictionary-API-/
 
-### Dictionary API: https://dictionaryapi.dev
+### Dictionary API: 
+https://dictionaryapi.dev
